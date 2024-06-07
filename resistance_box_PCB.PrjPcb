@@ -156,86 +156,212 @@ UniqueId=918b5bb7-33bb-4e4c-a286-146ccb55b7ad
 Description=resistance_box_PCB_master
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
-Variation1=Designator=R22|UniqueId=\JEEEEQWS|Kind=1|AlternatePart=
-ParamVariation1=ParameterName=Comment|VariantValue==Value
-ParamDesignator1=R22
-Variation2=Designator=R21|UniqueId=\YNKKFJKB|Kind=1|AlternatePart=
-ParamVariation2=ParameterName=Comment|VariantValue==Value
-ParamDesignator2=R21
-Variation3=Designator=R17|UniqueId=\JYBODBKH|Kind=1|AlternatePart=
-ParamVariation3=ParameterName=Comment|VariantValue==Value
-ParamDesignator3=R17
-Variation4=Designator=R18|UniqueId=\RTVBUQBT|Kind=1|AlternatePart=
-ParamVariation4=ParameterName=Comment|VariantValue==Value
-ParamDesignator4=R18
-ParamVariationCount=4
+VariationCount=1
+Variation1=Designator=J1|UniqueId=\XEUVOPCL|Kind=1|AlternatePart=
+ParamVariation1=ParameterName=Comment|VariantValue==Part number
+ParamDesignator1=J1
+ParamVariationCount=1
 
 [ProjectVariant2]
 UniqueId=d847bb93-f8f7-4af8-95eb-61480dcc82ad
 Description=resistance_box_PCB_middle
 AllowFabrication=0
 ParameterCount=0
-VariationCount=9
+VariationCount=7
 Variation1=Designator=U3|UniqueId=\IHTOOXZT\CIFJVFBZ|Kind=1|AlternatePart=
-Variation2=Designator=R22|UniqueId=\JEEEEQWS|Kind=1|AlternatePart=
+Variation2=Designator=C5|UniqueId=\YEZCOPEG\NRITCJIV|Kind=1|AlternatePart=
 ParamVariation1=ParameterName=Comment|VariantValue==Value
-ParamDesignator1=R22
-Variation3=Designator=R21|UniqueId=\YNKKFJKB|Kind=1|AlternatePart=
+ParamDesignator1=C5
+Variation3=Designator=C6|UniqueId=\YEZCOPEG\OGZPFEFY|Kind=1|AlternatePart=
 ParamVariation2=ParameterName=Comment|VariantValue==Value
-ParamDesignator2=R21
-Variation4=Designator=R16|UniqueId=\XAROZBDP|Kind=1|AlternatePart=
-ParamVariation3=ParameterName=Comment|VariantValue==Value
-ParamDesignator3=R16
-Variation5=Designator=R15|UniqueId=\RHAZVSME|Kind=1|AlternatePart=
-ParamVariation4=ParameterName=Comment|VariantValue==Value
-ParamDesignator4=R15
-Variation6=Designator=C5|UniqueId=\YEZCOPEG\NRITCJIV|Kind=1|AlternatePart=
-ParamVariation5=ParameterName=Comment|VariantValue==Value
-ParamDesignator5=C5
-Variation7=Designator=C6|UniqueId=\YEZCOPEG\OGZPFEFY|Kind=1|AlternatePart=
-ParamVariation6=ParameterName=Comment|VariantValue==Value
-ParamDesignator6=C6
-Variation8=Designator=J2|UniqueId=\YEZCOPEG\STXLNUNN|Kind=1|AlternatePart=
+ParamDesignator2=C6
+Variation4=Designator=J2|UniqueId=\YEZCOPEG\STXLNUNN|Kind=1|AlternatePart=
+ParamVariation3=ParameterName=Comment|VariantValue==Part number
+ParamDesignator3=J2
+Variation5=Designator=U4|UniqueId=\YEZCOPEG\VCCINYHA|Kind=1|AlternatePart=
+ParamVariation4=ParameterName=Comment|VariantValue==Part Number
+ParamDesignator4=U4
+Variation6=Designator=J3|UniqueId=\EPKLCEYA|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=E:\Work\Altium_Library_Kam\Lib_Kam.DbLib/Connectors$|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=soon|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Lib_Kam.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Connectors$|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=254-2-2-Male|AltLibLink_IsSameFootprint=False
+ParamVariation5=ParameterName=Case|VariantValue=Male
+ParamDesignator5=J3
+ParamVariation6=ParameterName=Category|VariantValue=Headers & Wire Housings
+ParamDesignator6=J3
 ParamVariation7=ParameterName=Comment|VariantValue==Part number
-ParamDesignator7=J2
-Variation9=Designator=U4|UniqueId=\YEZCOPEG\VCCINYHA|Kind=1|AlternatePart=
-ParamVariation8=ParameterName=Comment|VariantValue==Part Number
-ParamDesignator8=U4
-ParamVariationCount=8
+ParamDesignator7=J3
+ParamVariation8=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator8=J3
+ParamVariation9=ParameterName=Database Table Name|VariantValue=Connectors$
+ParamDesignator9=J3
+ParamVariation10=ParameterName=Description|VariantValue=2.54mm 2.54mm 3A Copper Alloy 4P -40℃~+105℃ 260℃@5S Straight 2x2P 8.5mm Top Square Holes Plugin,P=2.54mm Female Headers ROHS
+ParamDesignator10=J3
+ParamVariation11=ParameterName=Footprint|VariantValue=254-2-2-Male
+ParamDesignator11=J3
+ParamVariation12=ParameterName=HelpURL|VariantValue=https://datasheet.lcsc.com/lcsc/2306091005_HCTL-PM254-2-02-Z-8-5_C2897403.pdf?_gl=1*j2h43v*_ga*MTA1Mzg1NzAxMC4xNzEyNDA1NTIz*_ga_98M84MKSZH*MTcxNzc5MzMyMy44LjEuMTcxNzc5NDE5OC40My4wLjA.
+ParamDesignator12=J3
+ParamVariation13=ParameterName=Ibis Model|VariantValue=
+ParamDesignator13=J3
+ParamVariation14=ParameterName=Item|VariantValue=Header 2.54 2x2 Male Upside
+ParamDesignator14=J3
+ParamVariation15=ParameterName=Library Reference|VariantValue=soon
+ParamDesignator15=J3
+ParamVariation16=ParameterName=Manufacturer|VariantValue=HCTL
+ParamDesignator16=J3
+ParamVariation17=ParameterName=Part Number|VariantValue=soon
+ParamDesignator17=J3
+ParamVariation18=ParameterName=PCB3D|VariantValue=
+ParamDesignator18=J3
+ParamVariation19=ParameterName=Pin Info|VariantValue=
+ParamDesignator19=J3
+ParamVariation20=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator20=J3
+ParamVariation21=ParameterName=Simulation|VariantValue=
+ParamDesignator21=J3
+ParamVariation22=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator22=J3
+ParamVariation23=ParameterName=Supplier Part Number 1|VariantValue=soon
+ParamDesignator23=J3
+Variation7=Designator=J4|UniqueId=\YEZCOPEG\CEIZONWU|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=E:\Work\Altium_Library_Kam\Lib_Kam.DbLib/Connectors$|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=PH-00068|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Lib_Kam.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Connectors$|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=254-2-2-Male|AltLibLink_IsSameFootprint=False
+ParamVariation24=ParameterName=Case|VariantValue=Male
+ParamDesignator24=J4
+ParamVariation25=ParameterName=Category|VariantValue=Headers & Wire Housings
+ParamDesignator25=J4
+ParamVariation26=ParameterName=Comment|VariantValue==Part number
+ParamDesignator26=J4
+ParamVariation27=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator27=J4
+ParamVariation28=ParameterName=Database Table Name|VariantValue=Connectors$
+ParamDesignator28=J4
+ParamVariation29=ParameterName=Description|VariantValue=3A Straight Square Pins 2.5mm 4P 6mm -40℃~+105℃ 3mm 2.54mm 双排 Black 2x2P 2.54mm Plugin,P=2.54mm Pin Headers ROHS
+ParamDesignator29=J4
+ParamVariation30=ParameterName=Footprint|VariantValue=254-2-2-Male
+ParamDesignator30=J4
+ParamVariation31=ParameterName=HelpURL|VariantValue=https://datasheet.lcsc.com/lcsc/2202131830_Liansheng-PH-00068_C2685136.pdf?_gl=1*1wcoe98*_ga*MTA1Mzg1NzAxMC4xNzEyNDA1NTIz*_ga_98M84MKSZH*MTcxNzc5MzMyMy44LjEuMTcxNzc5NjE0MS42MC4wLjA.
+ParamDesignator31=J4
+ParamVariation32=ParameterName=Ibis Model|VariantValue=
+ParamDesignator32=J4
+ParamVariation33=ParameterName=Item|VariantValue=Header 2.54 2x2 Male
+ParamDesignator33=J4
+ParamVariation34=ParameterName=Library Reference|VariantValue=PH-00068
+ParamDesignator34=J4
+ParamVariation35=ParameterName=Manufacturer|VariantValue=HCTL
+ParamDesignator35=J4
+ParamVariation36=ParameterName=Part Number|VariantValue=PH-00068
+ParamDesignator36=J4
+ParamVariation37=ParameterName=PCB3D|VariantValue=
+ParamDesignator37=J4
+ParamVariation38=ParameterName=Pin Info|VariantValue=
+ParamDesignator38=J4
+ParamVariation39=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator39=J4
+ParamVariation40=ParameterName=Simulation|VariantValue=
+ParamDesignator40=J4
+ParamVariation41=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator41=J4
+ParamVariation42=ParameterName=Supplier Part Number 1|VariantValue=C2685136
+ParamDesignator42=J4
+ParamVariationCount=42
 
 [ProjectVariant3]
 UniqueId=5b51f5dc-7f6c-429f-82f3-33e3de748916
 Description=resistance_box_PCB_bottom
 AllowFabrication=0
 ParameterCount=0
-VariationCount=9
+VariationCount=8
 Variation1=Designator=U3|UniqueId=\IHTOOXZT\CIFJVFBZ|Kind=1|AlternatePart=
-Variation2=Designator=R16|UniqueId=\XAROZBDP|Kind=1|AlternatePart=
+Variation2=Designator=C5|UniqueId=\YEZCOPEG\NRITCJIV|Kind=1|AlternatePart=
 ParamVariation1=ParameterName=Comment|VariantValue==Value
-ParamDesignator1=R16
-Variation3=Designator=R15|UniqueId=\RHAZVSME|Kind=1|AlternatePart=
+ParamDesignator1=C5
+Variation3=Designator=C6|UniqueId=\YEZCOPEG\OGZPFEFY|Kind=1|AlternatePart=
 ParamVariation2=ParameterName=Comment|VariantValue==Value
-ParamDesignator2=R15
-Variation4=Designator=R19|UniqueId=\RPLWSICW|Kind=1|AlternatePart=
-ParamVariation3=ParameterName=Comment|VariantValue==Value
-ParamDesignator3=R19
-Variation5=Designator=R20|UniqueId=\ONNMCBSR|Kind=1|AlternatePart=
-ParamVariation4=ParameterName=Comment|VariantValue==Value
-ParamDesignator4=R20
-Variation6=Designator=C5|UniqueId=\YEZCOPEG\NRITCJIV|Kind=1|AlternatePart=
-ParamVariation5=ParameterName=Comment|VariantValue==Value
-ParamDesignator5=C5
-Variation7=Designator=C6|UniqueId=\YEZCOPEG\OGZPFEFY|Kind=1|AlternatePart=
-ParamVariation6=ParameterName=Comment|VariantValue==Value
-ParamDesignator6=C6
-Variation8=Designator=J2|UniqueId=\YEZCOPEG\STXLNUNN|Kind=1|AlternatePart=
-ParamVariation7=ParameterName=Comment|VariantValue==Part number
-ParamDesignator7=J2
-Variation9=Designator=U4|UniqueId=\YEZCOPEG\VCCINYHA|Kind=1|AlternatePart=
-ParamVariation8=ParameterName=Comment|VariantValue==Part Number
-ParamDesignator8=U4
-ParamVariationCount=8
+ParamDesignator2=C6
+Variation4=Designator=J2|UniqueId=\YEZCOPEG\STXLNUNN|Kind=1|AlternatePart=
+ParamVariation3=ParameterName=Comment|VariantValue==Part number
+ParamDesignator3=J2
+Variation5=Designator=U4|UniqueId=\YEZCOPEG\VCCINYHA|Kind=1|AlternatePart=
+ParamVariation4=ParameterName=Comment|VariantValue==Part Number
+ParamDesignator4=U4
+Variation6=Designator=J3|UniqueId=\EPKLCEYA|Kind=1|AlternatePart=
+ParamVariation5=ParameterName=Comment|VariantValue==Part number
+ParamDesignator5=J3
+Variation7=Designator=J1|UniqueId=\XEUVOPCL|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=E:\Work\Altium_Library_Kam\Lib_Kam.DbLib/Connectors$|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=soon|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Lib_Kam.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Connectors$|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=254-2-2-Male|AltLibLink_IsSameFootprint=False
+ParamVariation6=ParameterName=Comment|VariantValue==Part number
+ParamDesignator6=J1
+ParamVariation7=ParameterName=Case|VariantValue=Male
+ParamDesignator7=J1
+ParamVariation8=ParameterName=Category|VariantValue=Headers & Wire Housings
+ParamDesignator8=J1
+ParamVariation9=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator9=J1
+ParamVariation10=ParameterName=Database Table Name|VariantValue=Connectors$
+ParamDesignator10=J1
+ParamVariation11=ParameterName=Description|VariantValue=2.54mm 2.54mm 3A Copper Alloy 4P -40℃~+105℃ 260℃@5S Straight 2x2P 8.5mm Top Square Holes Plugin,P=2.54mm Female Headers ROHS
+ParamDesignator11=J1
+ParamVariation12=ParameterName=Footprint|VariantValue=254-2-2-Male
+ParamDesignator12=J1
+ParamVariation13=ParameterName=HelpURL|VariantValue=https://datasheet.lcsc.com/lcsc/2306091005_HCTL-PM254-2-02-Z-8-5_C2897403.pdf?_gl=1*j2h43v*_ga*MTA1Mzg1NzAxMC4xNzEyNDA1NTIz*_ga_98M84MKSZH*MTcxNzc5MzMyMy44LjEuMTcxNzc5NDE5OC40My4wLjA.
+ParamDesignator13=J1
+ParamVariation14=ParameterName=Ibis Model|VariantValue=
+ParamDesignator14=J1
+ParamVariation15=ParameterName=Item|VariantValue=Header 2.54 2x2 Male Upside
+ParamDesignator15=J1
+ParamVariation16=ParameterName=Library Reference|VariantValue=soon
+ParamDesignator16=J1
+ParamVariation17=ParameterName=Manufacturer|VariantValue=HCTL
+ParamDesignator17=J1
+ParamVariation18=ParameterName=Part Number|VariantValue=soon
+ParamDesignator18=J1
+ParamVariation19=ParameterName=PCB3D|VariantValue=
+ParamDesignator19=J1
+ParamVariation20=ParameterName=Pin Info|VariantValue=
+ParamDesignator20=J1
+ParamVariation21=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator21=J1
+ParamVariation22=ParameterName=Simulation|VariantValue=
+ParamDesignator22=J1
+ParamVariation23=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator23=J1
+ParamVariation24=ParameterName=Supplier Part Number 1|VariantValue=soon
+ParamDesignator24=J1
+Variation8=Designator=J4|UniqueId=\YEZCOPEG\CEIZONWU|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=E:\Work\Altium_Library_Kam\Lib_Kam.DbLib/Connectors$|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=PH-00068|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Lib_Kam.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Connectors$|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=254-2-2-Male|AltLibLink_IsSameFootprint=False
+ParamVariation25=ParameterName=Case|VariantValue=Male
+ParamDesignator25=J4
+ParamVariation26=ParameterName=Category|VariantValue=Headers & Wire Housings
+ParamDesignator26=J4
+ParamVariation27=ParameterName=Comment|VariantValue==Part number
+ParamDesignator27=J4
+ParamVariation28=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator28=J4
+ParamVariation29=ParameterName=Database Table Name|VariantValue=Connectors$
+ParamDesignator29=J4
+ParamVariation30=ParameterName=Description|VariantValue=3A Straight Square Pins 2.5mm 4P 6mm -40℃~+105℃ 3mm 2.54mm 双排 Black 2x2P 2.54mm Plugin,P=2.54mm Pin Headers ROHS
+ParamDesignator30=J4
+ParamVariation31=ParameterName=Footprint|VariantValue=254-2-2-Male
+ParamDesignator31=J4
+ParamVariation32=ParameterName=HelpURL|VariantValue=https://datasheet.lcsc.com/lcsc/2202131830_Liansheng-PH-00068_C2685136.pdf?_gl=1*1wcoe98*_ga*MTA1Mzg1NzAxMC4xNzEyNDA1NTIz*_ga_98M84MKSZH*MTcxNzc5MzMyMy44LjEuMTcxNzc5NjE0MS42MC4wLjA.
+ParamDesignator32=J4
+ParamVariation33=ParameterName=Ibis Model|VariantValue=
+ParamDesignator33=J4
+ParamVariation34=ParameterName=Item|VariantValue=Header 2.54 2x2 Male
+ParamDesignator34=J4
+ParamVariation35=ParameterName=Library Reference|VariantValue=PH-00068
+ParamDesignator35=J4
+ParamVariation36=ParameterName=Manufacturer|VariantValue=HCTL
+ParamDesignator36=J4
+ParamVariation37=ParameterName=Part Number|VariantValue=PH-00068
+ParamDesignator37=J4
+ParamVariation38=ParameterName=PCB3D|VariantValue=
+ParamDesignator38=J4
+ParamVariation39=ParameterName=Pin Info|VariantValue=
+ParamDesignator39=J4
+ParamVariation40=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator40=J4
+ParamVariation41=ParameterName=Simulation|VariantValue=
+ParamDesignator41=J4
+ParamVariation42=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator42=J4
+ParamVariation43=ParameterName=Supplier Part Number 1|VariantValue=C2685136
+ParamDesignator43=J4
+ParamVariationCount=43
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for resistance_box_PCB\Design Rule Check - resistance_box_PCB.html
@@ -1156,9 +1282,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Lib_Kam.DbLib/Logic IC$
-ComponentDesignItemID0=SN74HC595PWR
-ComponentSymbolReference0=SN74HC595
+ComponentLibraryIdentifier0=Lib_Kam.DbLib/Connectors$
+ComponentDesignItemID0=PM254-2-02-Z-8.5
+ComponentSymbolReference0=Header_4
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1201,7 +1327,7 @@ ParameterUpdate11=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=TSSOP16
+ModelName0=254-2-2-Fem
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]

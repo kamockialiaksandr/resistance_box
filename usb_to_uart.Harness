@@ -1,1 +1,2 @@
 UART=TXD,RXD
+USB=D+,D-
